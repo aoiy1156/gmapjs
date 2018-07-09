@@ -1,0 +1,102 @@
+Marker(
+[
+{
+  "lat": 35.698294,
+  "lng": 139.782863,
+  "name": "BEADS FACTORY",
+  "address": "〒111-0053 東京都台東区浅草橋4丁目10−8",
+  "url": "http://www.beadsfactory.co.jp/"
+},
+{
+  "lat": 35.697687,
+  "lng": 139.786101,
+  "name": "パーツクラブ 浅草橋",
+  "address": "〒111-0053 東京都台東区浅草橋1丁目18−10",
+  "url": "http://www.partsclub.jp/"
+},
+{
+  "lat": 35.696887,
+  "lng": 139.785638,
+  "name": "貴和製作所 浅草橋支店",
+  "address": "〒111-0053 東京都台東区浅草橋1丁目9−13",
+  "url": "http://www.kiwa-inc.co.jp/home/"
+},
+{
+  "lat": 35.694648,
+  "lng": 139.782991,
+  "name": "カンダ手芸 本館",
+  "address": "〒103-0002 東京都中央区日本橋馬喰町1丁目14−10",
+  "url": "http://kanda.o.oo7.jp/"
+},
+{
+  "lat": 35.693959,
+  "lng": 139.783813,
+  "name": "カンダ手芸クラフト館",
+  "address": "〒103-0002 東京都中央区日本橋馬喰町1丁目11−16",
+  "url": "http://kanda.o.oo7.jp/kanda/2_5.htm"
+},
+{
+  "lat": 35.693959,
+  "lng": 139.783813,
+  "name": "カンダ手芸ビーズ・クラフト館",
+  "address": "〒103-0002 東京都中央区日本橋馬喰町1丁目11−16",
+  "url": "http://kanda.o.oo7.jp/kanda/2_6.htm"
+},
+{
+  "lat": 35.697239,
+  "lng": 139.78356,
+  "name": "テラキ アイリボンテラキ",
+  "address": "〒111-0053 東京都台東区浅草橋1丁目12-4",
+  "url": "https://www.i-ribbon-teraki.com/"
+},
+{
+  "lat": 35.700817,
+  "lng": 139.785557,
+  "name": "Keito",
+  "address": "〒111-0053 東京都台東区浅草橋3丁目5−4",
+  "url": "http://www.keito-shop.com"
+},
+{
+  "lat": 35.699075,
+  "lng": 139.783269,
+  "name": "ボタン専門店 タカシマ",
+  "address": "〒111-0053 東京都台東区浅草橋4丁目1",
+  "url": "https://www.bb-takashima.net/"
+},
+{
+  "lat": 35.697612,
+  "lng": 139.787657,
+  "name": "さくらほりきり",
+  "address": "〒111-0052 東京都台東区柳橋1丁目25−3",
+  "url": "http://www.sakurahorikiri.co.jp/"
+},
+{
+  "lat": 35.697376,
+  "lng": 139.785321,
+  "name": "Beads Lounge 浅草橋店",
+  "address": "〒111-0053 台東区浅草橋1丁目17-5",
+  "url": "http://beadslounge.jp/"
+},
+{
+  "lat": 35.697338,
+  "lng": 139.785087,
+  "name": "（有）クィーンズアクセサリー",
+  "address": "〒111-0053 東京都台東区浅草橋1丁目10-8",
+  "url": "http://www.queens-accessory.jp/"
+},
+{
+  "lat": 35.69731,
+  "lng": 139.783617,
+  "name": "ピエール・ピコ",
+  "address": "〒111-0053 東京都台東区浅草橋1丁目13-6",
+  "url": "http://pierrepicot.blog106.fc2.com/"
+},
+{
+  "lat": 35.697803,
+  "lng": 139.786218,
+  "name": "Strawberry NICE",
+  "address": "〒111-0053 台東区浅草橋1丁目18-9",
+  "url": "http://www.strawberry-nice.com/"
+}
+]
+);
